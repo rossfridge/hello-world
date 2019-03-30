@@ -1,2 +1,2 @@
 # hello-world
-does what it says
+does what it says on the tin!
